@@ -1,0 +1,17 @@
+Boa tarde, meu nome é Natália. 
+Sou formada em Engenharia Elétrica, trabalhava com elaboração de projetos e orçamentos elétricos, mas não me sentia realizada com a área.
+Então decidi tentar outros rumos, durante a pandemia me deparei com a área de TI mais especificamente com a parte de QA na Academia Accenture.
+Desde então venho me capacitando para atuar da melhor forma possível, aprender os termos e conceitos da area.
+Tem sido um desafio porque é uma área e uma dinâmica de trabalho diferente da que eu atuava mas também tem sido bem empolgante. 
+Nesses quase 4 meses de accenture aprendi conceitos e técnicas de testes e qualidade de softwares. 
+Estou atuando no BV Open na squad do Portal Administrativo faço testes manuais e automatizados de interface web como também testes em api.
+
+Nossso time trabalha com o Processo Scrum, as sprints duram 2 semanas.
+O processo inicia com a Planning onde o PO apresenta a equipe as histórias que serão tratadas na sprint e tiramos todas as dúvidas sobre o que será executado e o tempo;
+Diariamente temos as dailys para alinharmos o que fizemos no dia anterior e o que será feito no atual e se alguém tem algum impedimento em alguma atividade;
+Ao final da sprint temos a cerimônia de retrospectiva onde conversamos sobre as atividades executadas na sprint passada o que foi bom e que pode melhorar.
+
+Durante o ciclo de trabalho a medida que a PO passa as histórias e o time de dev inicia a execução eu faço a escrita dos cenários de testes.
+Quando tem alguma funcionalidade que já possa ser testada o dev me chama e eu vou testando em paralelo com o desenvolvimento. 
+Quando o desenvolvimente está 100% faço mais testes com a coleta de evidências e
+se estiver tudo ok passo para a PO validar o processo, caso contrário aviso ao dev algum bug encontrado e reporto no Jira para correção.
